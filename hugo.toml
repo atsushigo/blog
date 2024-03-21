@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '東京手札'
 theme = 'lightbi-hugo'
 # 
 metaDataFormat = "yaml"
@@ -46,7 +46,7 @@ previewCardImagePlacement = "bottom"
   filename = "sitemap.xml"
 
 [Author]
-  name = "Bino Kochumol Varghese"
+  name = "Sam"
   website = "https://binovarghese.com/"
   email = "sample@gmail.com"
   facebook = "username"
@@ -77,27 +77,27 @@ previewCardImagePlacement = "bottom"
   #slack = "username"
 
 [[menu.main]]
-    name = "Home"
+    name = "主頁"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
+    name = "筆記"
     url = "/notes/"
     weight = 2
 
 [[menu.main]]
-    name = "Tags"
+    name = "標籤"
     url = "/tags/blog/"
     weight = 3
 
 [[menu.main]]
-    name = "Collections"
+    name = "主題"
     url = "/collections/"
     weight = 4
 
 [[menu.main]]
-    name = "About"
+    name = "關於"
     url = "/about/"
     weight = 5
 
