@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog-two-roan-59.vercel.app/'
 languageCode = 'en-us'
 title = '東京手札'
 theme = 'lightbi-hugo'
@@ -48,7 +48,7 @@ previewCardImagePlacement = "bottom"
 [Author]
   name = "Sam"
   website = "https://binovarghese.com/"
-  email = "aaa@gmail.com"
+  email = "bbb@gmail.com"
   facebook = "username"
   instagram = "username"
   youtube = "user/username" # or channel/channelname
